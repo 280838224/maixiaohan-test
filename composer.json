@@ -1,0 +1,18 @@
+{
+    "name": "maixiaohan/test",
+    "description": "开发一个composer包",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maixiaohan\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maixiaohan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
